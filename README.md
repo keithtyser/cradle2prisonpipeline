@@ -1,7 +1,7 @@
 # Mapping the Cradle to Prison Pipeline - Handwriting to Text
 
 ## Team Members
-Keith Tyser
+Keith Tyser <br />
 Che-wei Hsu
 
 ## Background

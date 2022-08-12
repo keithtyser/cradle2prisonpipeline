@@ -1,7 +1,11 @@
 # Mapping the Cradle to Prison Pipeline - Handwriting to Text
 
+## Team Members
+Keith Tyser
+Che-wei Hsu
+
 ## Background
-Translate 200 handwritten surveys from Phase 2 into CSV file and do an analysis on Phase 1 (given) and Phase 2 data.
+The objective of the project was to translate 200 handwritten surveys into a CSV file and do an analysis on the data.
 
 ## Approach
 ### We seperated the survey into two tasks: Checkbox extraction and Plain text extraction

@@ -8,7 +8,7 @@ Che-wei Hsu
 The objective of the project was to translate 200 handwritten surveys into a CSV file and do an analysis on the data.
 
 ## Approach
-### We seperated the survey into two tasks: Checkbox extraction and Plain text extraction
+### We separated the survey into two tasks: Checkbox extraction and Plain text extraction
 1. Use AWS texttract (https://aws.amazon.com/textract/) to extract the plain text into a CSV file 
 2. Use OpenCV (https://docs.opencv.org/4.x/index.html) to extract the checkbox data into a CSV file
 3. Combine the results of both CSV files into one final CSV

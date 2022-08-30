@@ -1,5 +1,4 @@
 # Mapping the Cradle to Prison Pipeline - Handwriting to Text
-Used OpenCV to detect checkboxes on surveys and whether they were checked or not.
 
 ## Team Members
 Keith Tyser <br />

@@ -1,8 +1,8 @@
 # Mapping the Cradle to Prison Pipeline - Handwriting to Text
 
 ## Team Members
-Keith Tyser <br />
-Che-wei Hsu
+Keith Tyser (worked on checkbox model using OpenCV)<br />
+Che-wei Hsu (worked on text extraction using AWS)
 
 ## Background
 The objective of the project was to translate 200 handwritten surveys into a CSV file and do an analysis on the data.
